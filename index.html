@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shoplet</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="hero-section">
+        <h1>Welcome to Shoplet!</h1>
+        <p>Your one-stop shop for all things tech</p>
+        <nav>
+            <a href="#home" onclick="loadPage('')">Home</a>
+            <a href="#cart" onclick="loadPage('cart')">Cart (<span id="cart-count">0</span>)</a>
+        </nav>
+    </header>
+
+    <div id="content"></div>
+
+    <div id="product-modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div id="modal-body"></div>
+            <div id="modal-button"></div>
+        </div>
+    </div>
+    <div id="cart-page" class="cart-page"></div>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
