@@ -1,10 +1,10 @@
-# Shoplet E-Commerce Project
+																																														# Shoplet E-Commerce Project
 
-## Project Overview
+																																																## Project Overview
 
 Shoplet is a basic e-commerce web application developed as part of my Full Stack Developer Internship at CodeAlpha. The primary goal of this project was to create a functional online store with core e-commerce features like product listing, cart management, and order processing.
 
-## Key Features
+																																																	## Key Features
 
 - **Product Listing:** Users can browse through various products displayed on the homepage, each accompanied by an image, name, price, and an "Add to Cart" button.
 
@@ -22,17 +22,21 @@ Shoplet is a basic e-commerce web application developed as part of my Full Stack
   - Upon form submission, the order is processed and saved, and the user receives a confirmation that the purchase was successful.
   - The cart is cleared after the order is completed.
 
-## Technologies Used
+																																																## Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Express.js, Node.js
 - **Database:** MongoDB
 - **Deployment:** Local environment (instructions for deployment not provided)
 
-## Screenshots
+																																																		## Screenshots
+![item-modal](https://github.com/user-attachments/assets/87f57f13-7a90-48cf-933e-0c2ff8b33c77)
+![homepage](https://github.com/user-attachments/assets/bdc242ed-b2a2-4d7f-944d-84254a401aed)
+![empty-cart](https://github.com/user-attachments/assets/cb718eba-8b96-4b4b-85eb-f568c986b72f)
+![checkout-form](https://github.com/user-attachments/assets/bf38d7d2-12e5-48a9-8440-7c46e6d00515)
+![cart-items](https://github.com/user-attachments/assets/4d9d171f-5ac4-402e-aee1-e3ad48d0b8e2)
 
-
-## Conclusion
+																																																		## Conclusion
 
 This project provided a hands-on experience in building a full-stack e-commerce application, enhancing my skills in both front-end and back-end development. It was a crucial part of my journey as a Full Stack Developer Intern at CodeAlpha.
 
