@@ -1,0 +1,240 @@
+[{
+  "_id": {
+    "$oid": "66b358023c268efb31228fb5"
+  },
+  "name": "Wireless Mouse",
+  "description": "A high-precision wireless mouse with ergonomic design.",
+  "price": 29.99,
+  "image": "https://img.freepik.com/free-photo/woman-using-computer-mouse-with-laptop_1150-7255.jpg?uid=R157853611&ga=GA1.1.1406576489.1721585294&semt=ais_hybrid",
+  "reviews": "This mouse has a great ergonomic design and works smoothly."
+},
+{
+  "_id": {
+    "$oid": "66b358023c268efb31228fb6"
+  },
+  "name": "Mechanical Keyboard",
+  "description": "A mechanical keyboard with customizable RGB backlight.",
+  "price": 89.99,
+  "image": "https://img.freepik.com/premium-photo/golden-glowing-mechanical-keyboard_334364-31269.jpg?uid=R157853611&ga=GA1.1.1406576489.1721585294&semt=ais_hybrid",
+  "reviews": "The customizable RGB lights are amazing, and the keystrokes are very satisfying."
+},
+{
+  "_id": {
+    "$oid": "66b358023c268efb31228fb7"
+  },
+  "name": "HD Webcam",
+  "description": "A full HD webcam with built-in microphone.",
+  "price": 49.99,
+  "image": "https://img.freepik.com/free-photo/wireless-home-security-surveillance-camera_53876-96819.jpg?uid=R157853611&ga=GA1.1.1406576489.1721585294&semt=ais_hybrid",
+  "reviews": "The video quality is excellent, and the microphone is clear."
+},
+{
+  "_id": {
+    "$oid": "66b358023c268efb31228fb8"
+  },
+  "name": "Bluetooth Speaker",
+  "description": "A portable Bluetooth speaker with deep bass.",
+  "price": 39.99,
+  "image": "https://img.freepik.com/free-photo/view-horizontal-bluetooth-speaker-with-simple-minimal-modern-design_23-2150807997.jpg?uid=R157853611&ga=GA1.1.1406576489.1721585294&semt=ais_hybrid",
+  "reviews": "The bass is deep, and it’s portable, making it perfect for outdoor use."
+},
+{
+  "_id": {
+    "$oid": "66b358023c268efb31228fb9"
+  },
+  "name": "Gaming Headset",
+  "description": "A gaming headset with surround sound and noise-canceling mic.",
+  "price": 59.99,
+  "image": "https://img.freepik.com/premium-psd/pair-headphones-with-blue-black-blue-lights_1169513-311.jpg?uid=R157853611&ga=GA1.1.1406576489.1721585294&semt=ais_hybrid",
+  "reviews": "Great sound quality and comfortable to wear for long gaming sessions."
+},
+{
+  "_id": {
+    "$oid": "66b49bc6aa28ebdf6c228fb5"
+  },
+  "name": "Smartwatch",
+  "description": "A smartwatch with fitness tracking and notifications.",
+  "price": 199.99,
+  "image": "https://img.freepik.com/free-photo/rendering-smart-home-device_23-2151039299.jpg?uid=R157853611&ga=GA1.1.1406576489.1721585294&semt=ais_hybrid",
+  "reviews": "Great for tracking fitness metrics and receiving notifications on the go."
+},
+{
+  "_id": {
+    "$oid": "66b49bc6aa28ebdf6c228fb6"
+  },
+  "name": "4K Monitor",
+  "description": "A 4K monitor with high resolution and vibrant colors.",
+  "price": 349.99,
+  "image": "https://img.freepik.com/free-photo/view-computer-monitor-display_23-2150757432.jpg?uid=R157853611&ga=GA1.1.1406576489.1721585294&semt=ais_hybrid",
+  "reviews": "Excellent display quality for both work and entertainment."
+},
+{
+  "_id": {
+    "$oid": "66b49bc6aa28ebdf6c228fb7"
+  },
+  "name": "Portable SSD",
+  "description": "A portable SSD with fast data transfer speeds and high storage capacity.",
+  "price": 129.99,
+  "image": "https://img.freepik.com/free-photo/hands-typing-laptop-desk-high-angle_23-2149328254.jpg?uid=R157853611&ga=GA1.1.1406576489.1721585294&semt=ais_hybrid",
+  "reviews": "Fast and reliable storage solution that's easy to carry around."
+},
+{
+  "_id": {
+    "$oid": "66b49bc6aa28ebdf6c228fb8"
+  },
+  "name": "Wireless Charger",
+  "description": "A wireless charger compatible with Qi-enabled devices.",
+  "price": 39.99,
+  "image": "https://img.freepik.com/premium-photo/close-up-black-wireless-charger-white-marble-surface_14117-885111.jpg?uid=R157853611&ga=GA1.1.1406576489.1721585294&semt=ais_hybrid",
+  "reviews": "Convenient and efficient charging without the need for cables."
+},
+{
+  "_id": {
+    "$oid": "66b49bc6aa28ebdf6c228fb9"
+  },
+  "name": "Bluetooth Earbuds",
+  "description": "Compact Bluetooth earbuds with noise-canceling features.",
+  "price": 89.99,
+  "image": "https://img.freepik.com/premium-psd/high-quality-earbuds-studio_23-2151580639.jpg?uid=R157853611&ga=GA1.1.1406576489.1721585294&semt=ais_hybrid",
+  "reviews": "Comfortable earbuds with great sound quality and noise cancellation."
+},
+{
+  "_id": {
+    "$oid": "66b49bc6aa28ebdf6c228fba"
+  },
+  "name": "Smart Home Hub",
+  "description": "A smart home hub to control various smart devices in your home.",
+  "price": 149.99,
+  "image": "https://img.freepik.com/free-photo/devices-arrangement-desk_23-2148994217.jpg?uid=R157853611&ga=GA1.1.1406576489.1721585294&semt=ais_hybrid",
+  "reviews": "Central control for all your smart home devices with easy integration."
+},
+{
+  "_id": {
+    "$oid": "66b49bc6aa28ebdf6c228fbb"
+  },
+  "name": "Gaming Mouse Pad",
+  "description": "A large gaming mouse pad with RGB lighting and smooth surface.",
+  "price": 29.99,
+  "image": "https://img.freepik.com/premium-photo/this-is-solid-black-mouse-pad_1106493-283072.jpg?uid=R157853611&ga=GA1.1.1406576489.1721585294&semt=ais_hybrid",
+  "reviews": "Perfect surface for gaming with customizable RGB lighting."
+},
+{
+  "_id": {
+    "$oid": "66b49bc6aa28ebdf6c228fbc"
+  },
+  "name": "Docking Station",
+  "description": "A docking station with multiple ports for expanding your laptop's connectivity.",
+  "price": 89.99,
+  "image": "https://img.freepik.com/premium-photo/modern-power-surge-protector-with-multiple-outlets-usb-ports-isolated-transparent-background-png_94628-84112.jpg?uid=R157853611&ga=GA1.1.1406576489.1721585294&semt=ais_hybrid",
+  "reviews": "Great for adding extra ports and connectivity options to your laptop."
+},
+{
+  "_id": {
+    "$oid": "66b49bc6aa28ebdf6c228fbd"
+  },
+  "name": "VR Headset",
+  "description": "A virtual reality headset with immersive graphics and comfortable fit.",
+  "price": 499.99,
+  "image": "https://img.freepik.com/premium-vector/design-flat-style-virtual-reality-headset-with-controllers-ready-enjoy-metaverse_186298-2698.jpg?uid=R157853611&ga=GA1.1.1406576489.1721585294&semt=ais_hybrid",
+  "reviews": "Immersive VR experience with high-quality visuals and comfortable design."
+},
+{
+  "_id": {
+    "$oid": "66b49bc6aa28ebdf6c228fbe"
+  },
+  "name": "Network Router",
+  "description": "A high-speed network router with advanced security features.",
+  "price": 129.99,
+  "image": "https://img.freepik.com/premium-photo/modern-wi-fi-home-router-with-antenna-light-blue-background_136401-137.jpg?uid=R157853611&ga=GA1.1.1406576489.1721585294&semt=ais_hybrid",
+  "reviews": "Reliable router with fast speeds and strong security features."
+},
+{
+  "_id": {
+    "$oid": "64cbf2b5b3d6d0a40c0e1d3d"
+  },
+  "name": "Apple iPhone 13",
+  "description": "Apple iPhone 13 with 128GB storage, A15 Bionic chip, and dual-camera system.",
+  "price": 999.99,
+  "image": "https://img.freepik.com/premium-photo/newly-released-iphone-14-pro-max-mockup-set-with-back-front-angles_1073075-590.jpg?uid=R157853611&ga=GA1.1.1406576489.1721585294&semt=ais_hybrid",
+  "reviews": ""
+},
+{
+  "_id": {
+    "$oid": "64cbf2b5b3d6d0a40c0e1d3e"
+  },
+  "name": "Sony WH-1000XM4",
+  "description": "Sony WH-1000XM4 noise-canceling headphones with 30-hour battery life and advanced noise cancellation.",
+  "price": 349.99,
+  "image": "https://img.freepik.com/premium-photo/celebrating-world-photography-day_1199394-30430.jpg?uid=R157853611&ga=GA1.1.1406576489.1721585294&semt=ais_hybrid",
+  "reviews": ""
+},
+{
+  "_id": {
+    "$oid": "64cbf2b5b3d6d0a40c0e1d3f"
+  },
+  "name": "Dyson V11 Vacuum Cleaner",
+  "description": "Dyson V11 cordless vacuum cleaner with powerful suction and intelligent cleaning modes.",
+  "price": 599.99,
+  "image": "https://img.freepik.com/premium-photo/robot-that-is-standing-up-front-white-wall_853812-141.jpg?uid=R157853611&ga=GA1.1.1406576489.1721585294&semt=ais_hybrid",
+  "reviews": ""
+},
+{
+  "_id": {
+    "$oid": "64cbf2b5b3d6d0a40c0e1d40"
+  },
+  "name": "Instant Pot Duo 7-in-1",
+  "description": "Instant Pot Duo 7-in-1 electric pressure cooker, slow cooker, rice cooker, and more.",
+  "price": 89.99,
+  "image": "https://img.freepik.com/premium-photo/isolated-yellow-background-features-white-smart-rice-cookers-with-black-electronic-panels_76964-174905.jpg?uid=R157853611&ga=GA1.1.1406576489.1721585294&semt=ais_hybrid",
+  "reviews": "Great all-in-one appliance. Makes cooking easy and fast."
+},
+{
+  "_id": {
+    "$oid": "64cbf2b5b3d6d0a40c0e1d41"
+  },
+  "name": "Fitbit Charge 5",
+  "description": "Fitbit Charge 5 advanced fitness and health tracker with built-in GPS and heart rate monitoring.",
+  "price": 149.99,
+  "image": "https://img.freepik.com/free-photo/cropped-shot-unrecognizable-woman-activewear-carries-rolled-up-karemat-gets-ready-workout-wears-smartwatch-tracksuit-poses-against-blurred-background-sporty-lifestyle-concept_273609-56773.jpg?uid=R157853611&ga=GA1.1.1406576489.1721585294&semt=ais_hybrid",
+  "reviews": "Advanced fitness tracker with excellent GPS and health tracking features."
+},
+{
+  "_id": {
+    "$oid": "64cbf2b5b3d6d0a40c0e1d42"
+  },
+  "name": "Kindle Paperwhite",
+  "description": "Amazon Kindle Paperwhite with a 6.8-inch display, adjustable warm light, and waterproof design.",
+  "price": 129.99,
+  "image": "https://img.freepik.com/premium-psd/e-book-reader-mock-up-black-background_750956-106.jpg?uid=R157853611&ga=GA1.1.1406576489.1721585294&semt=ais_hybrid",
+  "reviews": "Perfect e-reader with adjustable warm light for comfortable reading."
+},
+{
+  "_id": {
+    "$oid": "64cbf2b5b3d6d0a40c0e1d43"
+  },
+  "name": "Nintendo Switch",
+  "description": "Nintendo Switch gaming console with 32GB storage, includes Joy-Con controllers for versatile play.",
+  "price": 299.99,
+  "image": "https://img.freepik.com/premium-photo/imagine-a-nintendo-switch-product-photography-with_487986-20136.jpg?uid=R157853611&ga=GA1.1.1406576489.1721585294&semt=ais_hybrid",
+  "reviews": "Great gaming console with a versatile gaming experience and high-quality graphics."
+},
+{
+  "_id": {
+    "$oid": "64cbf2b5b3d6d0a40c0e1d44"
+  },
+  "name": "Bose QuietComfort 35 II",
+  "description": "Bose QuietComfort 35 II wireless Bluetooth headphones with noise cancellation and voice assistant integration.",
+  "price": 299.99,
+  "image": "https://img.freepik.com/premium-photo/bose-quietcomfort-35-ii-headphones-cracow-poland-march-20th-2002_410516-37772.jpg?uid=R157853611&ga=GA1.1.1406576489.1721585294&semt=ais_hybrid",
+  "reviews": "Excellent noise-canceling headphones with superior sound quality and comfort."
+},
+{
+  "_id": {
+    "$oid": "64cbf2b5b3d6d0a40c0e1d45"
+  },
+  "name": "Logitech MX Master 3",
+  "description": "Logitech MX Master 3 advanced wireless mouse with ultrafast scrolling and customizable buttons.",
+  "price": 99.99,
+  "image": "https://img.freepik.com/free-photo/purple-computer-mouse_1260-12.jpg",
+  "reviews": "Highly efficient wireless mouse with advanced features for professional use."
+}]
