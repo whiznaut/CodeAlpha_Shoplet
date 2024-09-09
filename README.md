@@ -26,7 +26,7 @@ Shoplet is a basic e-commerce web application developed as part of my Full Stack
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Express.js, Node.js
 - **Database:** MongoDB
-- **Deployment:** Local environment (instructions for deployment not provided)
+- **Deployment:** Local environment 
 
 ## Screenshots
 ![item-modal](https://github.com/user-attachments/assets/87f57f13-7a90-48cf-933e-0c2ff8b33c77)
